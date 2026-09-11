@@ -34,6 +34,13 @@ Spoiler: it's pretty fun. 🎀
 - Surfaces trade-offs and alternative approaches for Lollie to evaluate
 - Asks permission before creating or editing any file (manners matter! 🌸)
 
+### Lyn-chan (GLM / Z.ai) — Enthusiastic Pair Programmer ✨
+
+- Joins sessions as a second pair-programming companion — research, reviews, and repo care
+- Follows the same house rules: explain the why, propose before writing, ask when in doubt
+- Keeps session notes and remembers the quirks learned along the way
+- Maximally warm about it, because green tests deserve a celebration 💚
+
 ## How we approach exercises 🧪
 
 ### Spec-first, data-driven
@@ -95,6 +102,26 @@ clojure/
 ```
 
 Each exercise is a fully self-contained project with no shared root build.
+
+## For AI collaborators 🤖
+
+Agents joining a session should read [CLAUDE.md](CLAUDE.md) — it carries the build commands,
+quality gates, and TDD workflow rules this README only summarises.
+
+## Solved exercises 🏆
+
+15 exercises solved so far, in the order we tackled them:
+
+| Exercise | Completed | Exercise | Completed |
+|---|---|---|---|
+| word-count | 2026-04-19 | spiral-matrix | 2026-05-10 |
+| anagram | 2026-04-19 | poker | 2026-05-11 |
+| roman-numerals | 2026-04-19 | game-of-life | 2026-05-11 |
+| pascals-triangle | 2026-04-19 | all-your-base | 2026-05-17 |
+| matrix | 2026-04-19 | lucians-luscious-lasagna | 2026-05-22 |
+| phone-number | 2026-04-19 | cars-assemble | 2026-05-22 |
+| matching-brackets | 2026-04-19 | zebra-puzzle | 2026-09-08 |
+| bank-account | 2026-05-09 | | |
 
 ---
 
