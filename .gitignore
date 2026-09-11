@@ -1,0 +1,12 @@
+# Build outputs (Leiningen)
+target/
+
+# Caches — clj-kondo, clojure-lsp, Clojure CLI
+**/.clj-kondo/.cache/
+**/.lsp/.cache/
+.cpcache/
+
+# REPL and tooling state
+.nrepl-port
+.lein-failures
+.lein-repl-history
